@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://ams.aliatayee.com" target="_blank"><h1>Attendance Management System</h1></a></p>
 
 ## About Attendance Management System
@@ -102,3 +103,6 @@ Give a ⭐️ if you like this project!
 
 Thank you for considering contributing to the attendance management system!.
 
+=======
+# attendance-test
+>>>>>>> 716410ea54ea7fdde91d7a47bda8310dbe736b4a
